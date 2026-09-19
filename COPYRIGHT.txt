@@ -1,0 +1,9 @@
+Copyright (c) 2026 The Authors. All rights reserved.
+
+Associated manuscript:
+IEEE Transactions on Automation Science and Engineering (IEEE T-ASE)
+Manuscript ID: T-ASE-2026-2601
+
+This code provides the core implementation of the proposed method and is intended for academic research purposes.
+
+Redistribution or commercial use requires prior permission from the authors.
